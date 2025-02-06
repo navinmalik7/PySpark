@@ -1,0 +1,9 @@
+id,name,department,salary,bonus
+1,Alice,Sales,5000,200
+2,Bob,Finance,6000,300
+3,Charlie,Sales,5500,250
+4,David,Finance,7000,400
+5,Eva,HR,4500,150
+6,Frank,HR,4800,NULL
+7,Grace,Sales,5200,220
+8,Hank,Finance,6500,350
